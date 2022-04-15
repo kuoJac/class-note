@@ -10,6 +10,7 @@
 用git commit -m " "簽收，" "內為自行輸入
 ### 第四步 確認身分(僅在第一次獲會重製的電腦使用)
 git config --global user.email "you@example.com"設定電子郵件
+
 git config --global user.name "Your Name"設定名字
 ### 第五步 傳送檔案
 git push傳送  
